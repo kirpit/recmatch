@@ -1,10 +1,11 @@
+Django==1.4
 South==0.7.5
 Werkzeug==0.8.3
 distribute==0.6.15
 django-admin-tools==0.4.1
 django-autofixture==0.2.5
-django-dilla==0.2beta
+#django-dilla==0.2beta
 django-extensions==0.9
-identicon==0.0.0
-pyodbc==3.0.3
+#identicon==0.0.0
+#pyodbc==3.0.3
 wsgiref==0.1.2
